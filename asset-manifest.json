@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/interview/static/css/main.02a9b1bf.css",
+    "main.js": "/interview/static/js/main.d9a0d245.js",
+    "static/media/RAMBO.svg": "/interview/static/media/RAMBO.04308a2340116af8ab235aa7fd96d3f7.svg",
+    "static/media/SUPERPOWER.svg": "/interview/static/media/SUPERPOWER.588d0ab79947959c76edb42e572a4ba9.svg",
+    "static/media/ORBIT.svg": "/interview/static/media/ORBIT.4cc5e73f889615e1981067bd99fc6424.svg",
+    "static/media/ROCKET.svg": "/interview/static/media/ROCKET.61d0d4a228418e7614dbc2348b3d466f.svg",
+    "static/media/FELICITY.svg": "/interview/static/media/FELICITY.9e8f6c73a103a6046f88369669c7a5fb.svg",
+    "static/media/INKEL.svg": "/interview/static/media/INKEL.08f58d9fb944ffa3c820f93fa1d2dda0.svg",
+    "static/media/TUFFBULL.svg": "/interview/static/media/TUFFBULL.fd64e893bfd1cdeb60c7a3523fd18389.svg",
+    "static/media/MUST.svg": "/interview/static/media/MUST.a5aa60c6e8718e29f9b44d8eec81014b.svg",
+    "static/media/DJ.svg": "/interview/static/media/DJ.ab01698702ed14cdc7fe45558182a27c.svg",
+    "static/media/Deye.svg": "/interview/static/media/Deye.59f9ceffd6c2e4b63f0d33493be388b8.svg",
+    "static/media/Growwat.svg": "/interview/static/media/Growwat.946b7a9650549eba24171235b2b29cf9.svg",
+    "static/media/Exide.svg": "/interview/static/media/Exide.979c89fcdf3308117c798e3c45aaaf14.svg",
+    "static/media/Lumi.svg": "/interview/static/media/Lumi.3ebc13da4f8c1c92ed7b284032c441c0.svg",
+    "static/media/Vector.svg": "/interview/static/media/Vector.16129de1e26eabfbf5b7502151d2004e.svg",
+    "index.html": "/interview/index.html",
+    "main.02a9b1bf.css.map": "/interview/static/css/main.02a9b1bf.css.map",
+    "main.d9a0d245.js.map": "/interview/static/js/main.d9a0d245.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02a9b1bf.css",
+    "static/js/main.d9a0d245.js"
+  ]
+}
